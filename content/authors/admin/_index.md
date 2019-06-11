@@ -18,28 +18,42 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include single cell, epigenomics, transcriptomics, machine learning, etc.
 
 interests:
 - Single Cell
 - Computational Biology
+- Biostatistics
 - Machine Learning
 - Transcriptome
 - Epigenome
 
 education:
   courses:
+  - course: Postdoctoral Fellow in Computational Biology 
+    institution: Broad Institute of MIT and Harvard, Cambridge, USA
+    year: 2019~Current
+
+  - course: Postdoctoral Fellow in Computational Biology 
+    institution: Massachusetts General Hospital & Harvard Medical School, Boston, USA
+    year: 2018~Current
+
   - course: PhD in Computer Science
-    institution: Tongji University, China
+    institution: Tongji University, Shanghai, China
     year: 2012~2018
 
+  - course: Research Assistant in Computational Biology 
+    institution: Massachusetts General Hospital & Harvard Medical School, Boston, USA
+    year: 2017~2018   
+
   - course: Visiting PhD student in Biostatistics and Computational Biology 
-    institution: Dana-Farber Cancer Institute & Harvard T.H. Chan School of Public Health
+    institution: Dana-Farber Cancer Institute & Harvard T.H. Chan School of Public Health, Boston, USA
     year: 2015~2017  
 
   - course: BSc in Computer Science
-    institution: Tongji University, China
+    institution: Tongji University, Shanghai, China
     year: 2008~2012
+    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -74,6 +88,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a postdoctoral research fellow at at Massachusetts General Hospital and Harvard Medical School, where I am supervised by <a href="http://pinellolab.org/">Dr.Luca Pinello</a>. I completed both his undergraduate studies and Ph.D. in computer science at Tongji University in China. My research interests lie in the area of computational biology, ranging from machine learning methods to epigenome to transcriptome. In particular I am interested in developing computational methods for single cell analysis. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Personally, I enjoy reading, hiking, running, and also a good Netflix binge.
