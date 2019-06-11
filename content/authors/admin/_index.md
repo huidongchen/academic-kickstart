@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Huidong Chen
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,36 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Massachusetts General Hospital & Harvard Medical School
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Single Cell
+- Computational Biology
+- Machine Learning
+- Transcriptome
+- Epigenome
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Tongji University, China
+    year: 2012~2018
+
+  - course: Visiting PhD student in Biostatistics and Computational Biology 
+    institution: Dana-Farber Cancer Institute & Harvard T.H. Chan School of Public Health
+    year: 2015~2017  
+
+  - course: BSc in Computer Science
+    institution: Tongji University, China
+    year: 2008~2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
