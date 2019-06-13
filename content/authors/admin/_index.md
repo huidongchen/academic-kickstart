@@ -88,6 +88,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a postdoctoral research fellow at at Massachusetts General Hospital and Harvard Medical School, where I am supervised by <a href="http://pinellolab.org/">Dr.Luca Pinello</a>. I completed both his undergraduate studies and Ph.D. in computer science at Tongji University in China. My research interests lie in the area of computational biology, ranging from machine learning methods to epigenome to transcriptome. In particular I am interested in developing computational methods for single cell analysis. 
+I am currently a postdoctoral research fellow at at Massachusetts General Hospital and Harvard Medical School, where I am supervised by <a href="http://pinellolab.org/">Dr.Luca Pinello</a>. I completed both my undergraduate studies and Ph.D. in computer science at Tongji University in China. My research interests lie in the area of computational biology, ranging from machine learning methods to epigenome to transcriptome. In particular I am interested in developing computational methods for single cell analysis. 
 
 Personally, I enjoy reading, hiking, running, and also a good Netflix binge.
