@@ -58,7 +58,7 @@ address = "Massachusetts General Hospital 149, 13th Street, 6th floor, Charlesto
 office_hours = """"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+#appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -85,10 +85,10 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
-map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
+map = 1
+map_api_key = "AIzaSyBm8RWTlo7JrCCv2wBLztP5RTmouRUAm8U"
+latitude = "42.377695"
+longitude = "-71.051788"
 zoom = 15
 
 ############################

@@ -17,28 +17,52 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-<!-- [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Postdoctoral Fellow"
+  company = "Broad Institute of MIT and Harvard"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics.""" -->
+  location = "Cambridge, USA"
+  date_start = "2019-02-01"
+  date_end = ""
+  description = """Developing single cell trajectroy inference methods and visualization tools. Single cell multi-omics data analysis."""
 
+
+[[experience]]
+  title = "Postdoctoral Fellow"
+  company = "Massachusetts General Hospital & Harvard Medical School"
+  company_url = ""
+  location = "Boston, USA"
+  date_start = "2018-09-01"
+  date_end = ""
+  description = """Developing single cell trajectroy inference methods and visualization tools. Single cell multi-omics data analysis."""
+
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Massachusetts General Hospital & Harvard Medical School"
+  company_url = ""
+  location = "Boston, USA"
+  date_start = "2017-09-01"
+  date_end = "2018-08-30"
+  description = """Single cell transcriptomic and epigenomic data analysis."""
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "Tonji University"
+  company_url = ""
+  location = "Shanghai,China"
+  date_start = "2012-09-01"
+  date_end = "2013-06-01"
+  description = """Taught database, SQL, and MySQL ."""
+
+[[experience]]
+  title = "Purchasing Intern"
+  company = "Faurecia"
+  company_url = ""
+  location = "Shanghai,China"
+  date_start = "2011-10-01"
+  date_end = "2011-11-01"
+  description = """Processing purchasing orders, Database maintenance, Editing Microsoft Excel sheets"""
 +++

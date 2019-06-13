@@ -30,21 +30,14 @@ interests:
 
 education:
   courses:
-  - course: Postdoctoral Fellow in Computational Biology 
-    institution: Broad Institute of MIT and Harvard, Cambridge, USA
-    year: 2019~Current
-
-  - course: Postdoctoral Fellow in Computational Biology 
-    institution: Massachusetts General Hospital & Harvard Medical School, Boston, USA
-    year: 2018~Current
 
   - course: PhD in Computer Science
     institution: Tongji University, Shanghai, China
     year: 2012~2018
 
-  - course: Research Assistant in Computational Biology 
+  - course: Visiting PhD student in Computational Biology 
     institution: Massachusetts General Hospital & Harvard Medical School, Boston, USA
-    year: 2017~2018   
+    year: 2016~2017   
 
   - course: Visiting PhD student in Biostatistics and Computational Biology 
     institution: Dana-Farber Cancer Institute & Harvard T.H. Chan School of Public Health, Boston, USA
