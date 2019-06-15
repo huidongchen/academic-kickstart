@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   location = "Cambridge, USA"
   date_start = "2019-02-01"
   date_end = ""
-  description = """Developing single cell trajectroy inference methods and visualization tools. Single cell multi-omics data analysis."""
+  description = """Developing computational methods to analyze single cell multi-omics data."""
 
 
 [[experience]]
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   location = "Boston, USA"
   date_start = "2018-09-01"
   date_end = ""
-  description = """Developing single cell trajectroy inference methods and visualization tools. Single cell multi-omics data analysis."""
+  description = """Developing single cell trajectroy inference methods and visualization tools. Performing single cell multi-omics data analysis."""
 
 
 [[experience]]
