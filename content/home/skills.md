@@ -31,12 +31,6 @@ subtitle = ""
   icon_pack = "fas"
   name = "Machine-Learning"
   description = " " 
-
-[[feature]]
-  icon = "palette"
-  icon_pack = "fas"
-  name = "Illustrator"
-  description = " " 
   
 [[feature]]
   icon = "chart-line"
@@ -45,9 +39,15 @@ subtitle = ""
   description = " " 
 
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
+  icon = "window-maximize"
+  icon_pack = "far"
+  name = "Jupyter"
   description = " "
+
+[[feature]]
+  icon = "palette"
+  icon_pack = "fas"
+  name = "Illustrator"
+  description = " " 
 
 +++
