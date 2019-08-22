@@ -26,7 +26,7 @@ summary: ""
 
 tags: [Single-cell RNA-seq, Single-cell ATAC-seq, Trajectory Inference, Principal Graph, Visualization, Epigenomic]
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
