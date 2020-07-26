@@ -39,7 +39,7 @@ education:
     institution: Massachusetts General Hospital & Harvard Medical School, Boston, USA
     year: 2016~2017   
 
-  - course: Visiting PhD student in Biostatistics and Computational Biology 
+  - course: Joint-training PhD student in Biostatistics and Computational Biology 
     institution: Dana-Farber Cancer Institute & Harvard T.H. Chan School of Public Health, Boston, USA
     year: 2015~2017  
 
